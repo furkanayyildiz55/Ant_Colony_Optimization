@@ -23,11 +23,9 @@ Bu uygulama **bir şehirde gezi yapılacak noktların en kısa yol ve en az mali
 
 # Karınca Kolonisi Optimizasyonu İle Oluşturulmuş En Uygun Güzergah
 <p align="center">
- <img src="https://github.com/furkanayyildiz55/Ant_Colony_Optimization/blob/master/Rota.png" width="1000">
+ <img src="https://github.com/furkanayyildiz55/Ant_Colony_Optimization/blob/master/güzergah.png" width="1000">
 </p>
 
-
-
-Optimizasyonun nasıl işlediği ile ilgili ayrıntılı bilgi**[sunum dosyasında](https://github.com/furkanayyildiz55/Ant_Colony_Optimization/blob/master/Kar%C4%B1nca%20Kolonisi%20Algoritmas%C4%B1%20Yapay%20Zeka-Sunum.pptx)** bulunmaktadır.
+# Optimizasyonun nasıl işlediği ile ilgili ayrıntılı bilgi **[sunum dosyasında](https://github.com/furkanayyildiz55/Ant_Colony_Optimization/blob/master/Karinca%20Kolonisi%20Algoritmasi-Sunum.pptx)** bulunmaktadır.
 
 
